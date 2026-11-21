@@ -74,4 +74,3 @@ To remove it, turn off its sign-in option, exit the helper, and use Windows Task
 ## Implementation and validation
 
 See [implementation notes](docs/implementation.md) for the Windows integration, permission model and test coverage.
-
